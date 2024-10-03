@@ -1,0 +1,2 @@
+# ViTextGen-Vision-and-Text-Integration-for-Enhanced-Summarization
+ViTextGen is a comprehensive multimodal framework that integrates image captioning and text summarization using advanced CNN-Transformer based encoder-decoder architectures. The project extracts and processes both textual and visual data from web pages to generate informative summaries enriched with contextually relevant image captions.
